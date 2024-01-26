@@ -14,10 +14,10 @@ As part of the lifecycle of the app, user contacts information is requested, con
 - Contact name
 - Contact main phone number
 
-Collected data is only used with the purpose of the normal execution of the app, you can request your data to be deleted at anytime, to do so, email `devatable@icloud.com` and attach the user id, which can be found under settings.
+Collected data is only used with the purpose of the normal execution of the app, you can request your data to be deleted at anytime, to do so, email `devtable@icloud.com` and attach the user id, which can be found under settings.
 
 If you find any security vulnerability that has been inadvertently avoided, or have any question regarding how the app protectes your privacy, please send an email to be attented.
 
 DevTable,
 Costa Rica,
-devatable@icloud.com
+devtable@icloud.com
